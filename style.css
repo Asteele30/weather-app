@@ -139,5 +139,6 @@ button:hover {
 
     .hourly-item {
         width: 50px; /* Fit more hourly items */
+        font-size: 12px;
     }
 }
