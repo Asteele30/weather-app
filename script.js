@@ -129,7 +129,7 @@ function updateUI() {
 
             const hourlyItemHtml = `
                 <div class="hourly-item">
-                    <span>${hour12}:00 ${ampm}</span>
+                    <span>${hour12} ${ampm}</span>
                     <img src="${iconUrl}" alt="Hourly Weather Icon">
                     <span>${temperature}°F</span>
                 </div>
